@@ -23,4 +23,4 @@ instructions for the computer (coding).
 
 **Status**: Complete. Seeking proofreaders and better formatting for figures and tables.
 
-[PDF Download](https://github.com/warrenm/von-neumann-papers/blob/master/Logical%20design%20of%20an%20electronic%20computing%20instrument/Logical%20design%20of%20an%20electronic%20computing%20instrument.pdf)
+[PDF Download](https://github.com/warrenm/von-neumann-papers/blob/master/Logical%20design%20of%20an%20electronic%20computing%20instrument/Logical%20design%20of%20an%20electronic%20computing%20instrument.pdf?raw=true)
